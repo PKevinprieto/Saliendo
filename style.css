@@ -21,7 +21,7 @@ body{
     height: 100vh;
 }
 .title{
-    font-size: 2.5em;
+    font-size: 2.2em;
     text-align: center;
     font-family: "type1", serif;
     color: rgb(255, 255, 255);
@@ -40,7 +40,7 @@ body{
     align-items: center;
 }
 .div-dad p{
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family: "type1";
     color: white;
     text-align: center;
@@ -152,13 +152,13 @@ svg{
     animation:click 5s linear infinite;
 }
 @keyframes mover-cursor{
-
+   
     0%{
-        top:24%;
+        top:25%;
         left:50%;
     }
     9%{
-        top:24%;
+        top:25%;
         left:50%;
     }
 
@@ -189,55 +189,55 @@ svg{
         left:50%;
     }
     40%{
-        top:48%;
+        top:49%;
         left:50%;
     }
     49%{
-        top:48%;
+        top:49%;
         left:50%;
     }
     50%{
-        top:55%;
+        top:56%;
         left:50%;
     }
     59%{
-        top:55%;
+        top:56%;
         left:50%;
     }
     60%{
-        top:61%;
+        top:64%;
         left:50%;
     }
     69%{
-        top:61%;
+        top:64%;
         left:50%;
     }
     70%{
-        top:67%;
+        top:70%;
         left:50%;
     }
     79%{
-        top:67%;
+        top:70%;
         left:50%;
     }
     80%{
-        top:73%;
+        top:78%;
         left:50%;
     }
     89%{
-        top:73%;
+        top:78%;
         left:50%;
     }
     90%{
-        top:80%;
+        top:85%;
         left:50%;
     }
     99%{
-        top:80%;
+        top:85%;
         left:50%;
     }
     100%{
-        top:24%;
+        top:90%;
         left:50%;
     }
 
