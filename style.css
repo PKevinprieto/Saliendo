@@ -203,3 +203,11 @@ body {
   text-align: center;
   color: #f7f5f5bd;
 }
+
+/* MEDIAQUERIES */
+
+@media (min-width: 768px) {
+  .container {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
